@@ -12,6 +12,10 @@
 
 
 <a href="https://github.com/bat333">
+  <img height=200 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bat333" />
+</a>
+
+<a href="https://github.com/bat333">
   <img height=200 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=bat333&layout=compact&langs_count=8&card_width=320" />
 </a>
 
