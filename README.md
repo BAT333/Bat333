@@ -12,7 +12,7 @@
 
 
 <a href="https://github.com/bat333">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bat333&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=bat333&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 💻 Developer passionate about software, focusing on backend using Java and Spring. Interested in Software Engineering, Information Security, and Data Science. Always seeking to learn and create efficient solutions. 🚀
